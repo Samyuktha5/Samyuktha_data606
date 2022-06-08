@@ -59,7 +59,7 @@ I would like to look at sentiment scores and yahoo financial information like im
 
 7) **What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)**?
 
-In this project, the Machine Learning tools we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
+In this project, the techniques we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
 
 KNN
 
