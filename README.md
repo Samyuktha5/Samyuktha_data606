@@ -1,5 +1,5 @@
 UMBC DATA606 Data Science Capstone Project
-Capstone Project Proposal
+## Capstone Project Proposal##
 
 Team mates : Samyuktha Guda , Samyuktha Jalagam , Nikitha Alla
 
