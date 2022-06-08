@@ -5,11 +5,11 @@ Team mates : Samyuktha Guda , Samyuktha Jalagam , Nikitha Alla
 
 # STOCK TREND PREDICTION USING SENTIMENT ANALYSIS #
  
- **What is your issue of interest (provide sufficient background information)?**
+1.**What is your issue of interest (provide sufficient background information)?**
 
 The stock market is a major topic in modern life. Investors can easily purchase new stocks and gain significant profits from dividends provided in the company’s bonus program for shareholders. Investors can also trade their own stocks with the other traders in the stock market via stock brokerages and electronic trading platforms. The stock exchange reflects market capitalism, and millions of stocks are traded every day. Stock movement prediction has attracted many researchers in multiple disciplines, including computer science, statistics, economics, finance, and operations research. These are based on long-term and short-term market trading activities that reflect different trading patterns. Our aim is to analyze one of those trading patterns called intraday trading. Intraday trading is highly dependent on the news about a specific stock on a given day. Our prime goal is to look at how sentiment analysis on stock news affects stock movement. With significant breakthroughs in data science and machine learning, today, we have different techniques to analyze almost all forms of data available.
 
-**Why is this issue important to you and/or to others?**
+2.**Why is this issue important to you and/or to others?**
 
 I made an investment in stocks a couple of years ago and have incurred loss. That's when I understood that knowing how to anticipate the future economy, even if one don't trade stocks for a living or have any financial background, may be extremely beneficial to ones financial status. Stock price prediction assists one in determining the future worth of a company's stock and other financial assets traded on an exchange. The whole point of stock price forecasting is to make a lot of money. Stock price prediction is very much helpful in taking investment decisions.
 
