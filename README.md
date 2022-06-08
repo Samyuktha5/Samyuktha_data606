@@ -16,23 +16,37 @@ I made an investment in stocks a couple of years ago and have incurred loss. Tha
 3) **What questions do you have in mind and would like to answer?**
 
 Why is stock trend  prediction Important?
+
 How does sentiment analysis help in predicting the trends in stock market?
+
 Stock market prediction aims to determine the future movement of the stock value of a financial exchange. The accurate prediction of share price movement will lead to more profit investors can make. If the news sentiment is favorable, the stock price is more likely to rise; if the news sentiment is negative, the stock price is more likely to fall. Sentiment Analysis can forecast news polarity, which can influence stock market patterns.
 
 4) **Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?**
 
 We will be considering two datasets for exploring and analyzing the stock movement, daily financial news from Kaggle, and the stock market daily data from Yahoo Finance by 'pandas_datareader.web'.  
+
 Dataset 1 contains 221,504 rows and 9 columns and the size of the data is 273 MB
+
 Dataset 2 contains 799851 rows and 8 columns.
+
 Attributes include:
+
 id: Auto-incremented count of order when the item was collected
+
 ticker: A ticker symbol or stock symbol is an abbreviation used to uniquely identify publicly traded shares of a particular stock
+
 title: News headline
+
 category: Type: news or analysis/opinion
+
 content: News body
+
 release_date: Date of news release, has no time of a day
+
 provider: Attribution to the content author. Name of a source of the content
+
 URL: Link to the original source of the content
+
 article_id: Unique identifier of the article assigned by investing.com website
 
 5) **What will be your unit of analysis (for example, patient, organization, or country)?**
@@ -46,11 +60,17 @@ I would like to look at sentiment scores and yahoo financial information like im
 7) **What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)**?
 
 In this project, the Machine Learning tools we plan to use to analyze the stock market are Valence Aware Dictionary for Sentiment Reasoning (VADER) with different classification models like
+
 KNN
+
 Decision tree
+
 Random forest 
+
 SVM
+
 Logistic Regression 
+
 Gaussian Naive Bayes
 
 8) **How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?**
