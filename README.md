@@ -51,7 +51,7 @@ article_id: Unique identifier of the article assigned by investing.com website
 
 5.**What will be your unit of analysis (for example, patient, organization, or country)?**
 
-The unit of analysis here is an Organization and my units of observation are sentiment of twitter tweets.
+The unit of analysis here is an Organization and my units of observation are sentiment of financial news articles.
 
 6.**What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)**?
 
