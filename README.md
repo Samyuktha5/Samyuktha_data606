@@ -1,8 +1,3 @@
-UMBC DATA606 Data Science Capstone Project
-## Capstone Project Proposal ##
-
-Team mates : Samyuktha Guda , Samyuktha Jalagam , Nikitha Alla
-
 ## UMBC DATA606 Data Science Capstone Project ##
 
 ## Project Proposal - SMART FARMING ##
